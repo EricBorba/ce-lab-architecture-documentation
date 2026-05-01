@@ -33,8 +33,9 @@ Application Load Balancer
 | App Server – AZ2 | EC2 | t3.medium | Run Node.js | $30 |
 | Application Load Balancer | ALB | N/A | Distribute traffic across AZs | ~$16 |
 | Security Groups | 4 SGs | N/A | Network security | Free |
+| Data Transfer (estimate) | – | ~$0.09/GB | ~$5 |
 
-**Total estimated monthly cost: ~$106**
+**Total estimated monthly cost: ~$111**
 
 ## Availability Zones
 
